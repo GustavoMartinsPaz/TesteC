@@ -1,0 +1,34 @@
+                            --COMO USAR OS DADOS ARMAZENADOS NA MEMÓRIA--
+
+Você viu como os dados são armazenados na memória, mas como podemos usar esses dados?
+Vamos pegar o exemplo que foi dado anteriormente da idade
+
+        int idade = 18;
+
+Você tem ela armazenada na variável idade, mas até agora aquele valor inteiro só está guardado
+Tem ideia de como pode mostrar esse valor na tela?
+
+
+        Pausa dramática
+
+Usaremos o printf, mas primeiro, o que é o printf?
+
+O printf funciona assim, ele lê determinado valor na memória e imprime na tela no formato escolhido
+Os formatos que ele imprime são:
+
+    - %d -> para int
+    - %f -> para float
+    - %lf -> para double
+    - %c -> para char
+
+E como imprimo na tela?
+A estrutura do printf é a seguinte:
+
+    printf("alguma string que você quiser %d", nome da variável que você que representar);
+    Nesse caso estamos usando uma variável int, por causa do %d, intuitivamente se você quiser representar outro tipo basta apenas
+    mudar o formato dentro da string
+
+obs: uma string é uma sequência de caracteres usada para representar uma frase, nos aprofundaremos nisso mais para frente
+
+DESAFIO: Em um arquivo dentro desse repositório, tente criar um arquivo que imprima na tela as variáveis declaradas no código
+Compile e veja se deu certo, nomeie o arquivo final com seu_nome01
