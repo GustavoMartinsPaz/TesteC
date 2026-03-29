@@ -1,0 +1,28 @@
+                        --PRINTF E SCANF--
+
+Você aprendeu um poquinho do printf no passo anterior, agora vamos nos aprofundar nele e ver uma função nova
+Como visto anteriormente, o printf:
+
+    - Pega valores guardados na memória
+    - Imprime na tela
+
+Mas pegar dados que já estão escritos no código não parece ser algo muito útil, e se pudéssemos pegar um número ou caractere
+que o usuário escreve e imprimir na tela, já é um passo a mais não concorda? Para isso que temos o Scant
+Ele faz a função "oposta" do printf:
+
+    - Lê dados digitados pelo usuário
+    - Guarda esses dados na memória
+
+No passo anterior você viu que declaramos as variáveis ja com o valor delas no começo do código, porque não tinhámos como 
+mudar aquele valor, mas agora com scanf nós temos, imagine um código onde podemos perguntar para o usuário a idade dele e retornar
+com o printf a própria idade dele, incrível né, mas assim como o printf, o scanf também tem regras de utilização
+
+    scanf("%d", &idade);
+
+    O que esse código está fazendo?
+
+Respondendo a pergunta, ele abriu um campo de digitação para o usuário, o número que o usuário digitar o scanf vai guardar como
+um int, lembra de como os dados são guardados né?, mas onde ele vai guardar? para isso que serve o &idade, o '&' mostra para o
+scanf onde o valor deve ser guardado, em qual variável, que no caso é a 'idade'
+
+Agora que você já aprendeu como usa o printf, compile e execute o exemplo e faça o desafio

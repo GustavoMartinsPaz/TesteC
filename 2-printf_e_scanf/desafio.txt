@@ -1,0 +1,6 @@
+Crie um arquivo que faça o seguinte
+    -Pergunte a inicial do nome do usuário
+    -Pergunte o ano em que ele nasceu
+    -Pergunte em que quarto ele reside no hotel
+    -Pergunte quanto ele acha que o lula tem de altura
+    -Imprima na tela uma frase juntando todos esses dados
