@@ -1,0 +1,15 @@
+Sua tarefa é fazer 4 programas diferentes(tava vendo aqui, acho que me empolguei na hora de criar a atividade
+porque vai usar if and else, mas acho que você da conta):
+
+    1º PROGRAMA:
+        Crie um código que calcula a média de 4 números que o usuário de
+
+    2º PROGRAMA:
+        Crie um código de converta Km/h em m/s, e vice e versa
+
+    3º PROGRAMA:
+        Crie um código que me permita escolher entre as 4 operações (+, -, *, /), me deixe escolher 2 números e me retorne o
+        resultado da operação
+
+    4º PROGRAMA:
+        Crie um código que me permita digitar um número e me diga se o número é ímpar ou par
