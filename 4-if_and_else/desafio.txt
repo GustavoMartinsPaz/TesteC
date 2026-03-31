@@ -1,0 +1,10 @@
+Tava pensando em um desafio bom pra colocar aqui, mas não surgiram ideias boas, vai essas mesmos, sorry:
+
+    1º desafio: Crie um código que me pergunte que horas são e me de como resposta, bom dia, boa tarde ou boa noite, dependendo
+    do horário
+
+    2º desafio: Crie um código que retorne um frase para cada membro do nosso grupinho com base na inicial de entrada, exemplo:
+        se for digitado t de thalia, o código retorna um "vai tomar no cu"
+        se for digitado g de gustavo, o código retorna um "Perfeito maravilhoso"
+        faça isso para as inicias c, g, j, m, s, t (clarinha, gustavo, jhonatan, mayara, sophia e thalia)
+        seja criativa nas frases

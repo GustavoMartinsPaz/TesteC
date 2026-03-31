@@ -1,0 +1,17 @@
+                        --if and else--
+São literalmente o que o nome se propõe (não vou saber traduzir eles), mas com um exemplo prático vai ficar mais claro:
+
+
+
+        1        if (x == 2){
+        2            printf("Oi\n");
+        3        } else{
+        4            printf("Bom dia\n");
+        5        }
+
+    Sabe explicar o que o código fez? 
+
+Vamos por partes, na linha 1 temos: if (x == 2){, o que isso quer dizer? bem, se o valor da variável x for igual a 2, você prossegue
+dentro desse bloco, na linha 2 temos a continuação do bloco: printf("Oi\n"); , então juntando tudo, se x for igual a 2, imprima na
+tela a mensagem "Oi". Mas e se for diferente? ai que entra o bloco else, se x for diferente de 2, o código executa o bloco else, que
+no caso imprime na tela "Bom dia".
