@@ -5,5 +5,5 @@ int main(void){
     int b = a++;
     int c = a;
     a++;
-    printf("%d %d %d\n", a, b, c);
+    printf("a=%d b=%d c=%d\n", a, b, c);
 }
