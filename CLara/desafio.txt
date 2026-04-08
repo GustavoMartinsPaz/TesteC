@@ -1,5 +1,5 @@
 1º Pergunta um número e retorna o dobro desse valor
 
-2º Converter km/h em m/s
+2º Converter km/h em m/s(que eu possa converter valores não necessariamente inteiros)
 
 3º Converter kelvin em fahrenheit
